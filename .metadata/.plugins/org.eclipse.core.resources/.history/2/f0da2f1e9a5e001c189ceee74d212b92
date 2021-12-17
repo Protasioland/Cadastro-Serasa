@@ -1,0 +1,5 @@
+package com.example.cadastro.repository;
+
+public interface CadastroRepository {
+
+}
